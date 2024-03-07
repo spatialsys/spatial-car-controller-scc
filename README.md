@@ -1,3 +1,5 @@
+Test out this sample here: https://www.spatial.io/s/SCC-Spatial-65ea444799b626e200d4cacb?share=5933831193146589842
+
 This project requires the unity asset store package [Simple Car Controller](https://assetstore.unity.com/packages/tools/physics/simple-car-controller-258020)
 
 
